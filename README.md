@@ -1,4 +1,4 @@
-##Facial Lock Recognition System
+Facial Lock Recognition System
 
 FaceFirst is a project developed to replace the traditional door lock systems into a smart system which uses face recognition algorithm as authentication to open the door
 The train the model with your faces put the faces in a folder renamed after you and put it into the folder training_data and run the retrain.sh file which would take about 10-15 minutes to train your model depending upon the data set
