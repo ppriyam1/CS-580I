@@ -5,6 +5,7 @@ The train the model with your faces put the faces in a folder renamed after you 
 After training your model with your dataset we can check the accuracy of the model by calling check.sh file in a terminal which will give the accuracies of the model by clicking pictures using your webcam camera
 for Implementing on Raspberry pi type on terminal run.sh which would run on raspberry pi
 In raspberry pi,
+
 	● The PIR sensor digital Output pin should be connected to pin 11
 	● The servo motor pulse input pin should be connected to pin 32
 	● Install Rasbian OS in raspberry pi sd card and supply power to it
